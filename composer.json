@@ -1,0 +1,11 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "^10.5",
+    "mockery/mockery": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "ToDoList\\": "src/"
+    }
+  }
+}

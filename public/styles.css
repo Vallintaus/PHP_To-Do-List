@@ -1,0 +1,11 @@
+.task-text {
+  flex-grow: 1; /* Allows the text to take up available space */
+}
+
+.btn-group {
+  /* Ensures the buttons stay aligned */
+}
+
+.completed-task {
+  text-decoration: line-through;
+}
